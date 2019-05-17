@@ -1,0 +1,1 @@
+- Disabled popcnt instuction to bypass invalid instruction exception on Core 2 Duo / Quad machines.
